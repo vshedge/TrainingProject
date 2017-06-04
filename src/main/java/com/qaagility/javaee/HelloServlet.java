@@ -1,4 +1,4 @@
-package net.codejava.javaee;
+package com.qaagility.javaee;
 
 import java.io.IOException;
 import java.io.PrintWriter;
